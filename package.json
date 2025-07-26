@@ -7,7 +7,8 @@
 		"start": "astro dev",
 		"build": "astro check && astro build",
 		"preview": "astro preview",
-		"astro": "astro"
+		"astro": "astro",
+		"reset": "rm -rf .astro node_modules .cache && pnpm install"
 	},
 	"dependencies": {
 		"@astrojs/check": "0.9.4",
@@ -19,7 +20,7 @@
 		"@types/react": "19.1.8",
 		"@types/react-dom": "19.1.6",
 		"@vercel/analytics": "1.5.0",
-		"astro": "5.7.14",
+		"astro": "5.12.3",
 		"canvas-confetti": "1.9.3",
 		"mdast-util-to-string": "4.0.0",
 		"react": "19.1.0",
