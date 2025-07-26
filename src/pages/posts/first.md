@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/post.astro
 title: "Welcome to AWFixers Research"
-pubDate: 2023-12-23
+pubDate: 2025-07-26
 description: "This is the first post of the Research site"
 author: "awfixer"
 isPinned: true
